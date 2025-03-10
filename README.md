@@ -1,6 +1,6 @@
 # [PROJECT: CUSTOMER CHURN PREDICTION](https://github.com/douglaswatanabe/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction.ipynb)
 
-This project was developed following the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology, with the goal of creating a predictive model to help reduce customer churn in the telecommunications industry. The model leverages historical customer data and specific usage patterns to identify at-risk customers and provide actionable insights for retention strategies.
+This project was developed following the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology to create a predictive model for reducing customer churn in the telecommunications industry. The model leverages historical customer data and specific usage patterns to identify at-risk customers and provide actionable insights for retention strategies.
 
 The CRISP-DM methodology organizes the analytical process into six structured phases: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment. This approach transforms raw data into valuable insights, enabling more accurate predictions and effective solutions to complex business challenges.
 
